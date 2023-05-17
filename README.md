@@ -5,9 +5,9 @@ The objective of this assignment is to apply understanding of the relational dat
 
 The assignment consists of two main tasks:
 
-Mapping an EER Diagram to a Relational Data Model: The first task involves mapping an EER diagram, representing a university database, into a relational data model. This includes defining all primary keys and referential integrity constraints (foreign keys).
+1. Mapping an EER Diagram to a Relational Data Model: The first task involves mapping an EER diagram, representing a university database, into a relational data model. This includes defining all primary keys and referential integrity constraints (foreign keys).
 
-Reverse Engineering a Relational Schema to an ER Model: The second task involves reverse engineering a given relational schema, representing a library database, to create a conceptual ER model. Any assumptions made during this process need to be clearly stated.
+2. Reverse Engineering a Relational Schema to an ER Model: The second task involves reverse engineering a given relational schema, representing a library database, to create a conceptual ER model. Any assumptions made during this process need to be clearly stated.
 
 This assignment is intended to enhance understanding of the relationship between ER/EER diagrams and relational data models, and the process of transitioning between these different levels of abstraction.
 
