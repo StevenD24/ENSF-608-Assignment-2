@@ -12,6 +12,6 @@ Reverse Engineering a Relational Schema to an ER Model: The second task involves
 This assignment is intended to enhance understanding of the relationship between ER/EER diagrams and relational data models, and the process of transitioning between these different levels of abstraction.
 
 ## Folder Structure 
-- [A2 Instructions](https://github.com/StevenD24/ENSF-614-Lab-6/blob/main/ENSF%20614%20-%20Lab%206.pdf)   
-<!-- - [A2 Report](https://github.com/StevenD24/ENEL-645-Assignment-1/blob/main/ENEL%20645%20-%20Assignment%201%20Report.pdf)   -->
-- [A2 Solution](https://github.com/StevenD24/ENEL-645-Assignment-1/blob/main/A1_Linear_Regression.ipynb) 
+- [A2 Instructions](https://github.com/StevenD24/ENSF-608-Assignment-2/blob/main/Assignment%232_608_W23.pdf)   
+- [A2 Q1](https://github.com/StevenD24/ENSF-608-Assignment-2/blob/main/ENSF%20608%20Assignment%202%20Q1.drawio.pdf)  
+- [A2 Q2](https://github.com/StevenD24/ENSF-608-Assignment-2/blob/main/ENSF%20608%20Assignment%202%20Q2.drawio.png) 
